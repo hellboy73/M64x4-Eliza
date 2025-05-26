@@ -10,6 +10,7 @@ Minimal64x4 computer by Slu4 https://github.com/slu4coder/Minimal-64x4-Home-Comp
 
 Source of Eliza in Basic https://gzuliani.github.io/scratch/files/scratch-pafo/2018ELIZABASIC.pdf
 
-Great article on Eliza by Greg Naçu, saved me some time of figuring out the basic code https://c64os.com/post/elizaforc64os 
+Excellent article on Eliza by Greg Naçu, saved me some time of figuring out the basic code https://c64os.com/post/elizaforc64os 
 
-![eliza_chat2](https://github.com/user-attachments/assets/7412a07d-9753-4c3e-a3c8-2fdcbfaf8213)
+
+![eliza_chat2](https://github.com/user-attachments/assets/e7ec4df9-847b-4901-be91-a83b9e8b7fec)
