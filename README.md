@@ -4,7 +4,7 @@ ELIZA Doctor script simulates rogerian psychotherapist and was originally invent
 
 v1.0 Inherits 99% of Jeff Shrager's basic logic with some cosmetic additions, it's fairy faithful to the basic source.
 
-v1.1 Is upgraded by enlarging keyword and response database. I used other Eliza implementations found on the Internet and also added my original conversation ideas. This version rendomizes responses, so they are not always given in the same order. 
+v1.1 Is upgraded by enlarging keyword and response database. I used other Eliza implementations found on the Internet and also added my original conversation ideas. This version randomizes responses, so they are not always given in the same order. 
 
 
 Credits:
