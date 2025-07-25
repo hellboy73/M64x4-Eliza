@@ -6,6 +6,7 @@ v1.0 Inherits 99% of Jeff Shrager's basic logic with some cosmetic additions, it
 
 v1.1 Is upgraded by enlarging keyword and response database. I used other Eliza implementations found on the Internet and also added my original conversation ideas. This version randomizes responses, so they are not always given in the same order. 
 
+Please note this software will only work on revision 1.1 of Minimal 64x4 as revision 1.4 Redux is not backward compatible compatible.
 
 Credits:
 
